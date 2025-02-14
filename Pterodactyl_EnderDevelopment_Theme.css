@@ -206,7 +206,6 @@ div.module_2XbmHEcn.group {
   border-radius: 10px;
 }
 
-/* Normalzustand */
 input.Input-sc-19rce1w-0.jqTCDz,
 input.Input-sc-19rce1w-0.floJYL,
 input.Input-sc-19rce1w-0.fFYzlR,
@@ -216,7 +215,6 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA {
   color: #a0a0a0 !important;
 }
 
-/* Hover-Zustand */
 input.Input-sc-19rce1w-0.jqTCDz:hover,
 input.Input-sc-19rce1w-0.floJYL:hover,
 input.Input-sc-19rce1w-0.fFYzlR:hover,
@@ -226,7 +224,6 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA:hover {
   color: #a0a0a0 !important;
 }
 
-/* Focus-Zustand */
 input.Input-sc-19rce1w-0.jqTCDz:focus,
 input.Input-sc-19rce1w-0.floJYL:focus,
 input.Input-sc-19rce1w-0.fFYzlR:focus,
@@ -236,7 +233,6 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA:focus {
   color: #a0a0a0 !important;
 }
 
-/* Beispiel für spezifischeren Zustand */
 input.Input-sc-19rce1w-0.fFYzlR {
   background-color: rgba(61, 0, 1,0.3) !important;
   border: 2px solid #470001 !important;
